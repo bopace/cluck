@@ -5,6 +5,8 @@
 
 Cluck is a fast-paced action platformer about a chicken armed with a leaf blower.
 
+![Look at Clucky go](cluck.jpg)
+
 ### Mechanics
 * Jumping/flapping: Press space to jump. Pressing space subsequent times will flap your wings, slowing your fall and allowing you to glide further than jumping alone.
 * Wall sliding/jumping: When falling adjacent to a wall, face it to slow your descent. Jump while sliding to kick off the wall. Chain jumps together to climb up obstacles.
@@ -17,5 +19,7 @@ Cluck is a fast-paced action platformer about a chicken armed with a leaf blower
 ### How to play
 
 Clone the repo and unzip cluck.zip. Inside, you'll find a Windows executable to test out the game.
+
+To beat a level, navigate the chicken to the egg (or the eggsit, as I like to call it). Avoid or destroy the enemies.
 
 Enjoy!
